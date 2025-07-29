@@ -46,7 +46,7 @@ const HeroSection = () => {
               Get Started
             </Button>
           </Link>
-          <Link href="https://www.linkedin.com/in/devgoyalg/">
+          <Link href="https://www.instagram.com/aadityaaa____7/">
             <Button size="lg" variant="outline" className="px-8">
               Watch Demo
             </Button>
