@@ -176,7 +176,7 @@ export default function Home() {
       </section>
 
       {/* CTA Section */}
-      <section className="w-full">
+      <section className="w-full bg-transparent">
         <div className="mx-auto py-24 gradient rounded-lg">
           <div className="flex flex-col items-center justify-center space-y-4 text-center max-w-3xl mx-auto">
             <h2 className="text-3xl font-bold tracking-tighter text-primary-foreground sm:text-4xl md:text-5xl">
