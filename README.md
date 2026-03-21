@@ -5,7 +5,7 @@
 
 <h1 align="center">💼 JobGeniusAI – AI Career Coach 🤖</h1>
 
-![Demo App](https://github.com/DevGoyalG/JobGeniusAI/blob/main/JobGeniusAI.png)
+![Demo App]("")
 
 ## 🌟 Highlights:
 
